@@ -1,6 +1,5 @@
 ### Olá, seja bem vindo 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando javascript, react e node js
-- 📫 Contate-me no email leemke123se@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho como full-stack (vue e java)
+- 🌱 Estou estudando react e node js
+- 📫 Contate-me no email gabriel.henrique.lemke@gmail.com
